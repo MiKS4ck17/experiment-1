@@ -1,20 +1,31 @@
+/* Paleta de colores
+488B49
+4AAD52
+4F759B
+6EB257
+C5E063 */
 body {
-    background-color: #2B4450;
-    color: #F78536;
-    font-family: 'Heebo', sans-serif;
-    margin: 0px;
+  background-color: #157357;
+  color: #0D4232;
+  font-family: 'Heebo', sans-serif;
+  margin: 0px;
 }
-header {
-    border-radius: 10px;
-    background-color: #DFEBED;
-    height: 60px;
-    width: 80%;
-    margin-left: 10%;
-    display: flex;
 
+header {
+  border-radius: 10px;
+  background-color: #8ED11B;
+  height: 60px;
+  width: 80%;
+  margin-left: 10%;
 }
+
 header h1 {
-    font-size: 26px;
-    justify-content: center;
-    text-align: center;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 12px;
 }
+
+.introduction {
+  padding: 0 5%;
+}
+/*# sourceMappingURL=style.css.map */
